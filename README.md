@@ -1,2 +1,3 @@
 # practice-snippets
-minor code snippets or basic project samples
+
+minor code snippets or 'basic projects' samples

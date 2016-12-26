@@ -63,5 +63,6 @@ class NextNumber {
     int n = 27;
     System.out.printf("number n: %d, binary: %s\n", n,  Integer.toBinaryString(n));
     System.out.printf("nextSmallest: %d, binary: %s\n", nextSmallest(27), Integer.toBinaryString(nextSmallest(n)));
+	System.out.printf("nextLargest: %d, binary: %s\n", nextLargest(27), Integer.toBinaryString(nextLargest(n)));
   }
 }
